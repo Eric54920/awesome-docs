@@ -12,8 +12,6 @@ Contents
 
 .. toctree::
 
-   Python
+   Python/test
    usage
    api
-   test
-   my_page
