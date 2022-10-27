@@ -7,16 +7,12 @@ I'am working Hangzhou as a Python developer.
 
 **Tools**: VSCode, PyCharm
 
-.. note::
-
-   This project is under active development.
-
 Contents
 --------
 
 .. toctree::
 
    Python
-      test
    usage
    api
+   test
